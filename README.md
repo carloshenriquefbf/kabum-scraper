@@ -3,7 +3,7 @@ Um simples WebScraper que captura o preço do dado link do website 'Kabum' e o g
 
 ## Exemplo:
 
-![](README1.PNG)
+![](README0.PNG)
 ## Arquivo de texto:
 ![](README2.PNG)
 
@@ -19,6 +19,4 @@ Pretendo acrescentar uma busca ao produto diretamente pelo código, sem a necess
 
 ## Sobre:
 
-Fiz esse projeto com o intuito de aprender mais sobre WebScraping, Python e automação. 
- 
- 
+Fiz esse projeto com o intuito de aprender mais sobre WebScraping, Python e automação.  
