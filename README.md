@@ -20,3 +20,5 @@ Pretendo acrescentar uma busca ao produto diretamente pelo código, sem a necess
 ## Sobre:
 
 Fiz esse projeto com o intuito de aprender mais sobre WebScraping, Python e automação. 
+ 
+ 
