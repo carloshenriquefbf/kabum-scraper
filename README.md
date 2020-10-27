@@ -1,17 +1,17 @@
 # KabumScraper
 Um simples WebScraper que captura o preço do dado link do website 'Kabum' e o guarda num arquivo de texto. Útil para comparar com valores antigos. 
 
-## Exemplo:
-
-![](README0.PNG)
-## Arquivo de texto:
-![](README2.PNG)
-
 ## Instruções:
 1. Alterar o link no código pelo link desejado;
 2. Rodar o arquivo.
 
 Apenas isso! 
+
+## Exemplo:
+
+![](README0.PNG)
+## Arquivo de texto:
+![](README2.PNG)
 
 ## Futuros updates:
 
